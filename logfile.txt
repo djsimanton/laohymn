@@ -1,0 +1,1021 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250418115712
+Username: ACCOUNTING-PC2\D'Arcy
+RunAs User: ACCOUNTING-PC2\D'Arcy
+Configuration Name: 
+Machine: ACCOUNTING-PC2 (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command if((Get-ExecutionPolicy ) -ne 'AllSigned') { Set-ExecutionPolicy -Scope Process Bypass }; & 'F:\publishing\lao\www-edit\remov-topbg.ps1'
+Process ID: 14972
+PSVersion: 5.1.19041.5737
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.5737
+BuildVersion: 10.0.19041.5737
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is F:\publishing\lao\www-edit\logfile.txt
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated contentall.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated contents.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h1.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h102.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h109.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h111.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h117.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h119.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h121.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h127.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h13.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h130.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h139.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h141.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h143.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h149.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h15.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h151.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h156.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h157.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h161.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h170.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h175.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h176.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h18.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h180.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h188.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h19.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h196.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h197.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated h2.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h20.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h200.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h21.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h211.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h212.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h213.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h220.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h224.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h225.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h227.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h233.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h234.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h235.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h238.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h240.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h242.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h244.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h25.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h250.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h26.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h34.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h38.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h4.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h41.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h43.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h44.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h46.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h48.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h5.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h50.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h51.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h52.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h53.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h54.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h55.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h59.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h6.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h63.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h67.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h70.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h72.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h77.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h78.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h8.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h80.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h88.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h92.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h95.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated h97.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated hymns.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated hymns2.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated hymns3.html
+Processing file:
+Content preview:  + <!DOCTYPE html>
+<html lang="en"><head>
+<!-- Once there is more content this page will be modified to include menu or other information to welcome people with intro to materials included --><title>Mek
+No changes needed for index.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><title>Lao Hymns and Praises License</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" viewport="" content="Hymns and P
+âœ… Updated license.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p1.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p10.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p100.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p101.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p102.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p103.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p104.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p105.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p106.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p107.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p108.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p109.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p11.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p110.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p111.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p112.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p113.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p114.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p115.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p116.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p117.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p118.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p119.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p12.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p120.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p121.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p122.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p123.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p124.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p125.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p126.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p127.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p128.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p129.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p13.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p130.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p131.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p132.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p133.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p134.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p135.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p136.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p137.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p138.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p139.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p14.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p140.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p141.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p142.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p143.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p144.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p145.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p146.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p147.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p148.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p149.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p15.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p150.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p151.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p152.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p153.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p154.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p16.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p17.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p18.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p19.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p2.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p20.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p21.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p22.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p23.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p24.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p25.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p26.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p27.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p28.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p29.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p3.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p30.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p31.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p32.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p33.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p34.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p35.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p36.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p37.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p38.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p39.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p4.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p40.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p41.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p42.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p43.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p44.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p45.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p46.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p47.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p48.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p49.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p5.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p50.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p51.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p52.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p53.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p54.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p55.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p56.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p57.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p58.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p59.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p6.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p60.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p61.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p62.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p63.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p64.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p65.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p66.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p67.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p68.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p69.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p7.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p70.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p71.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p72.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p73.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p74.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p75.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p76.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p77.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p78.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p79.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p8.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p80.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p81.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p82.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p83.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p84.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p85.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p86.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p87.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p88.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p89.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><t
+âœ… Updated p9.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p90.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p91.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p92.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p93.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p94.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p95.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p96.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head>
+<!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ --><ti
+âœ… Updated p97.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p98.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated p99.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated praises.html
+Processing file:
+Content preview:  + <!DOCTYPE HTML>
+<html><head><!-- Author: W3layouts Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/ -->
+âœ… Updated praises2.html
+**********************
+Windows PowerShell transcript end
+End time: 20250418115736
+**********************
