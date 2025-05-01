@@ -1,4 +1,4 @@
-const CACHE_NAME = 'laohymn-cache-v25';
+const CACHE_NAME = 'laohymn-cache-v26';
 const urlsToCache = [
   '/',    // Root index.html
   '/manifest.json',
@@ -387,7 +387,19 @@ self.addEventListener('fetch', event => {
     );
     return;
   }
-
+  // console log lines
+self.addEventListener('install', event => {
+  console.log('[Service Worker] Install');
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(cache => {
+      console.log('[Service Worker] Caching assets...');
+      return cache.addAll(urlsToCache);
+    }).catch(error => {
+      console.error('[Service Worker] Failed to cache:', error);
+    })
+  );
+});
+  
   // Normal asset fetch
   event.respondWith(
     caches.match(request).then(response => {
