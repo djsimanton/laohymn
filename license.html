@@ -1,12 +1,27 @@
-<!DOCTYPE HTML>
-<html><head><title>Lao Hymns and Praises License</title>
+﻿<!DOCTYPE HTML>
+<html><head>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/service-worker.js')
+                .then(function(registration) {
+                    console.log('Service Worker registered with scope:', registration.scope);
+                })
+                .catch(function(error) {
+                    console.log('Service Worker registration failed:', error);
+                });
+        });
+    }
+</script>
+<meta name="theme-color" content="#003366">
+<link rel="manifest" href="/manifest.json"><title>Lao Hymns and Praises License</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" viewport="" content="Hymns and Praises for Lao people in the Lao language&gt;
 &lt;meta name=">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(
 hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+<link href="link rel="stylesheet" href="fonts/fonts.css"" rel="stylesheet" type="text/css">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/move-top.js"></script>
@@ -163,4 +178,7 @@ ShareAlike&nbsp;</span></p>
 </div>
 </div>
 </div>
+<script src="js/font-buttons.js"></script>
 </body></html>
+
+

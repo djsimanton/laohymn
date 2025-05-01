@@ -1,7 +1,7 @@
 {
   "name": "Lao Hymn",
   "short_name": "LaoHymn",
-  "start_url": "/index/contents.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003366",
