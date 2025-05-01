@@ -1,4 +1,4 @@
-const CACHE_NAME = 'laohymn-cache-v27';
+const CACHE_NAME = 'laohymn-cache-v28';
 const urlsToCache = [
   '/',    // Root index.html
   '/manifest.json',
@@ -289,7 +289,7 @@ const urlsToCache = [
 'js/jquery.min.js',
 'js/modernizr.custom.28468.js',
 'js/move-top.js',
-'js/script.js',
+'js/script.js'
 
 
 
