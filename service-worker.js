@@ -1,4 +1,4 @@
-const CACHE_NAME = 'laohymn-cache-v37';
+const CACHE_NAME = 'laohymn-cache-v38';
 const urlsToCache = [
   '/',    // Root index.html
   '/manifest.json',
